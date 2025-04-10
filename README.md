@@ -6,4 +6,4 @@
 
 
 ## Notebook 
-### :link: [Notebook Link](https://github.com/Sai-Rama-Kopparty/Health-Insurance-Cross-Selling-Prediction/blob/main/cross-selling.ipynb)
+### :link: [Notebook Link](https://github.com/sairamakopparty/Health-Insurance-Cross-Selling-Prediction/blob/main/cross_selling_prediction.ipynb)
